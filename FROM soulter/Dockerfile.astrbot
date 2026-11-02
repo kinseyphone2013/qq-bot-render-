@@ -1,0 +1,2 @@
+FROM soulter/astrbot:latest
+EXPOSE 6185
