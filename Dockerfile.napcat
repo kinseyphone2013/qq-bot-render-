@@ -1,0 +1,2 @@
+FROM mlikiowa/napcat-docker:latest
+EXPOSE 6099
